@@ -1,0 +1,5 @@
+## MANAGER SUMMARY
+This prototype compares each product's title with tags from its photo and flags likely mismatches, such as a kiondo bag listed under a Nike title. Scores come from a simple bag-of-words stub (lab-bow-v1), not a trained model, and are based on only 4 SKUs, so rates are illustrative. Main risks are false flags against honest sellers, missed mismatches, and a small English vocabulary that misses 7 Kenyan product terms. Mitigations: flags go to sellers or moderators, titles are never silently rewritten, nothing is taken down on bag-of-words scores alone, and photos tagged person, face or child are marked for privacy review. We do not claim fraud or counterfeit detection, accuracy beyond this test set, or that generated images show the real product; they are labeled not a photo of the SKU.
+
+## Transfer to AfyaPlus, Do Not Mix Fixtures 
+Clinic posters and leaflet photos can reuse the join later. Do not copy SokoniHub SKUs into triage logs. Do not copy patient photos into this catalog.

@@ -1,0 +1,30 @@
+[
+  {
+    "sku": "KND-01",
+    "score": 1.0,
+    "flag": false,
+    "seller_message": "Photo tags and title look aligned.",
+    "transcript": ""
+  },
+  {
+    "sku": "NK-99",
+    "score": 0.0,
+    "flag": true,
+    "seller_message": "Check photo.",
+    "transcript": ""
+  },
+  {
+    "sku": "BAG-MID",
+    "score": 0.5,
+    "flag": false,
+    "seller_message": "Photo tags and title look aligned.",
+    "transcript": ""
+  },
+  {
+    "sku": "LSO-02",
+    "score": 0.8165,
+    "flag": false,
+    "seller_message": "Photo tags and title look aligned.",
+    "transcript": ""
+  }
+]

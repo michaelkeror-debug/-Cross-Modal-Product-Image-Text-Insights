@@ -1,0 +1,5 @@
+task: feature-extraction
+model: openai/clip-vit-base-patch32
+revision: main
+device: cpu
+note: "live encode is optional; pin must still exist"

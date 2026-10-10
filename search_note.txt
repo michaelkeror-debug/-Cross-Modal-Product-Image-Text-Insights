@@ -1,0 +1,3 @@
+search('navy sisal kiondo') = [(0.8660254037844387, 'KND-01'), (0.40824829046386296, 'NK-99')]
+top_skus = ['KND-01']
+recall@1 = 1.0

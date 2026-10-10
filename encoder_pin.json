@@ -1,0 +1,7 @@
+{
+ "encoder_id": "lab-bow-v1",
+ "source": "lab",
+ "revision": "sidecar-tags",
+ "honesty": "sidecar-tags",
+ "notes": "scores in mismatch_report.json from image_tags bow, not a Hub download"
+}
